@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "host": "0.0.0.0",
+  "database_url": "postgresql://redlib_db_user:QVDgVrHljxALS3BGr06pU8hdhLQpGScM@dpg-d14dbhruibrs73ab7tkg-a.oregon-postgres.render.com/redlib_db",
+  "read_only": false
+}
